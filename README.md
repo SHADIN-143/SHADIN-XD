@@ -1,4 +1,4 @@
-
+```python
 pkg update
 
 pkg upgrade
@@ -22,3 +22,5 @@ cd SHADIN-XD
 git pull
 
 python3 GREEN.py
+```
+Note : (This Tool Is Paid)
